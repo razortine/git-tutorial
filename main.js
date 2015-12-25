@@ -1,1 +1,1 @@
-alert('modify by 2!');
+alert('modify by tutorial 2!');
